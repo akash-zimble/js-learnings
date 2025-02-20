@@ -1,0 +1,5 @@
+Everything JS is happens in Execution context. Execution context has 2 components.
+1) Memory Block: which is also called as "Variable Environment". Every variable and Every function will be saved in this component as key=>value pair.
+2) Code Block: which is also called as Thread of Execution. This component is responsiable for executing the code line by line.
+
+Java is synchronous single threaded language, JS executes one command at a time, and it only executes one line of code, only after completing the execution of it's above lines code.
