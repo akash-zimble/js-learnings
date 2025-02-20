@@ -1,0 +1,1 @@
+Develop a simple JavaScript program and trace its execution using the call stack.
