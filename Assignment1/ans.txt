@@ -1,0 +1,7 @@
+JavaScript is the main pillar in modern web development, playing a crucial role in creating dynamic, interactive, and user-friendly web applications.  
+As a versatile, high-level language, JavaScript enables developers to build responsive-interfaces, real-time functionalities and seamless user experience.
+
+We can build web pages with simple html and css, but it wont be dynamic and interactive. We need to reload the page to see the changes in content. But JS handles this for us.
+
+JavaScript's main advantage is it runs on the client side, thus reducing server load and improving performance. 
+There are various frameworks and libraries like React Angular Vue, that help us to create complex user interfaces. And JS extends its utility beyond the browser with environments like Node.js we can do server-side development. One language can be used for both front end and back end. 
