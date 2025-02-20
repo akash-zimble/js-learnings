@@ -1,0 +1,1 @@
+Write a brief essay on the significance of JavaScript in modern web development.

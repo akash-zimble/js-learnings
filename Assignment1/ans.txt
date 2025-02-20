@@ -1,0 +1,2 @@
+JavaScript is the main piller in modern web developements, playing crucial role in creastinf dynamic, interactive and user-friendly web applications. 
+As a versatile, high-level language, JavaScript enables developers to build responsive-interfaces, real-time 
