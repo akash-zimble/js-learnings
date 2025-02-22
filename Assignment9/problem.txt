@@ -1,0 +1,1 @@
+Showcase the behavior of 'let' and 'const' declarations and explain the temporal dead zone.
