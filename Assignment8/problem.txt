@@ -1,0 +1,1 @@
+Illustrate how scope chain works in nested functions with examples.
