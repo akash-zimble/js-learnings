@@ -1,0 +1,1 @@
+Provide examples of variable shadowing and discuss potential pitfalls.
