@@ -1,0 +1,1 @@
+Create a JavaScript program that utilizes higher-order functions to filter and transform an array. Explain how it improves code readability and reusability.
