@@ -1,0 +1,1 @@
+Explain the event loop mechanism with the help of an example involving asynchronous code.
