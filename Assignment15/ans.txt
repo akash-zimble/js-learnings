@@ -1,0 +1,14 @@
+Google's V8 is world's fastest and powerful JavaScript Engine. It has named V8 based on powerful car Engine v8.
+
+Flow of Execution
+-> v8 first generates AST(Abstract Syntax Tree) with its own parser.
+-> Then Ignition(interpreter) interprets syntax tree, and generates ByteCode.
+-> Then TurboFan(compiler) compiles the bytecode, and generates machine code.
+-> This machine code is executed on cpu.
+
+The V8 engine’s Ignition interpreter, coupled with the renowned TurboFan optimizing compiler, allows for the compilation of highly optimized machine codes from bytecodes, 
+further improving performance. The V8 engine also have garbage collector named Orinoco, which is designed based on Mark&Sweep algorithm.
+
+
+Notes: 
+An Abstract Syntax Tree (AST) is a hierarchical tree-like data structure that represents the syntactic structure of source code in a programming language.
