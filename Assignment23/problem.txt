@@ -1,0 +1,1 @@
+Write examples showing the differences between call(), apply(), and bind().
