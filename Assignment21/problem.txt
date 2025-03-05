@@ -1,0 +1,1 @@
+Create a constructor function and demonstrate how prototype inheritance works.
