@@ -1,0 +1,1 @@
+Write a curried function that takes multiple arguments one at a time and explain its advantages.
