@@ -1,0 +1,1 @@
+Write a JavaScript program that uses map(), filter(), and reduce() to process an array of numbers.
